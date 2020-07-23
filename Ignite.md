@@ -3,11 +3,7 @@ A new start-up has a few issues with their web server.
 
 ## Disclaimer - Your IP address will be different!
 ---
-## Objectives
-1. Locate the User.txt
 
-2. Locate the Root.txt
----
 ## Scanning and Enumeration
 We are going to start this with a simple nmap scan to see what ports are open.  
 Command: `nmap -T4 -sC -sV -oN nmap\inital <ip>`
